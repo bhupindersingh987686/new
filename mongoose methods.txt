@@ -1,0 +1,8 @@
+mongoose methods
+
+1.) create() - to insert new row(document) in database
+2.) delete()
+2.) deleteOne()
+3.) find() 
+4.) findOne()
+5.) updateOne()
